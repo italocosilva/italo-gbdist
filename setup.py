@@ -1,7 +1,8 @@
 from setuptools import setup
 
-setup(name='italo-gbdist',
-      version='0.1',
+setup(name='italo_gbdist',
+      version='0.2',
       description='Gaussian and Binomial distributions',
-      packages=['italo-gbdist'],
+      packages=['italo_gbdist'],
+      author = 'Italo Castilho',
       zip_safe=False)
